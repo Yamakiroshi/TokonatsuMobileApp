@@ -6023,6 +6023,12 @@ namespace TokonatsuApp.Droid
 		public partial class String
 		{
 			
+			// aapt resource value: 0x7f0a003d
+			public const int ApplicationName = 2131361853;
+			
+			// aapt resource value: 0x7f0a003c
+			public const int Hello = 2131361852;
+			
 			// aapt resource value: 0x7f0a0015
 			public const int abc_action_bar_home_description = 2131361813;
 			
@@ -6115,6 +6121,12 @@ namespace TokonatsuApp.Droid
 			
 			// aapt resource value: 0x7f0a0034
 			public const int bottom_sheet_behavior = 2131361844;
+			
+			// aapt resource value: 0x7f0a003f
+			public const int channel_description = 2131361855;
+			
+			// aapt resource value: 0x7f0a003e
+			public const int channel_name = 2131361854;
 			
 			// aapt resource value: 0x7f0a0035
 			public const int character_counter_pattern = 2131361845;

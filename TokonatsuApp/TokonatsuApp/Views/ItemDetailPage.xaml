@@ -9,6 +9,8 @@
         <Label Text="{Binding Item.Text}" FontSize="Small"/>
         <Label Text="Description:" FontSize="Medium" />
         <Label Text="{Binding Item.Description}" FontSize="Small"/>
+        <Label Text="Event Date Time:" FontSize="Medium" />
+        <Label Text="{Binding Item.EventDateTime}" FontSize="Small" />
     </StackLayout>
     
 </ContentPage>

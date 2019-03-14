@@ -26,7 +26,8 @@ namespace TokonatsuApp.Views
             var item = new Item
             {
                 Text = "Item 1",
-                Description = "This is an item description."
+                Description = "This is an item description.",
+                EventDateTime = DateTime.Now.ToString()
             };
 
             viewModel = new ItemDetailViewModel(item);
